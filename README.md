@@ -1,2 +1,3 @@
 # TC3041-P4-Primavera-2019
-Template con las orientaciones de la Práctica 4. Time-series databases
+
+En este documento debe incluir el plantemaiento del problema diseñado así como la descripción de las mediciones, series, valores y etiquetas identificados en el problema.
